@@ -1,0 +1,15 @@
+
+Summary Report
+==============
+Total records analyzed: 100
+
+Charts generated:
+1. monthly_sales.png - Monthly trend (line chart)
+2. quarterly_sales.png - Quarterly totals (bar chart)
+3. category_sales.png - Category comparison (bar chart)
+4. category_sales_share.png - Category percentage share (pie chart)
+
+Observations:
+- Electronics category leads in total sales.
+- Steady monthly increase in overall sales.
+- Pie chart shows each category’s contribution clearly.
